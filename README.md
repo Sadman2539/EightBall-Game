@@ -1,1 +1,1 @@
-# EightBall
+# EightBall Game
